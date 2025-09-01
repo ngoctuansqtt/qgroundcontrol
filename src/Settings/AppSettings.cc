@@ -47,6 +47,7 @@ QList<int> AppSettings::_rgReleaseLanguages = {
 QList<int> AppSettings::_rgPartialLanguages = {
     QLocale::German,
     QLocale::Turkish,
+    QLocale::Vietnamese,
 };
 
 DECLARE_SETTINGGROUP(App, "")
